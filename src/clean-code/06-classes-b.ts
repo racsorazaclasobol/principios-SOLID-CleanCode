@@ -1,6 +1,6 @@
-( () => {
+//No aplicando principio de responsabilidad unica, pero utilizando interfaces
 
-    //No aplicando principio de responsabilidad unica, pero utilizando mejores practicas
+( () => {
 
     type Gender = 'M' | 'F';
 

@@ -1,5 +1,5 @@
+//Evitar uso de multiples if
 (() => {
-
 
     // Resolver sin la triple condicional dentro del if
     // includes? arrays?

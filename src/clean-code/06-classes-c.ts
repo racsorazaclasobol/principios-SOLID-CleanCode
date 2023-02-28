@@ -1,7 +1,7 @@
-( () => {
+//Aplicando principio de responsabilidad unica.
+//Priorizando la composicion frente a la herencia. Haciendo lo posible evitar las herencias
 
-    //Aplicando principio de responsabilidad unica.
-    //Priorizando la composicion frente a la herencia. Haciendo lo posible evitar las herencias
+( () => {
 
     type Gender = 'M' | 'F';
 

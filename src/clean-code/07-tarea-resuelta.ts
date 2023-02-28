@@ -1,7 +1,8 @@
-(()=>{
+// Tarea resuelta, ver diferencias con el archivo 07-tarea-sin-resolver.ts
+// Aplicar el principio de responsabilidad única
+// Priorizar la composición frente a la herencia
 
-    //* Aplicar el principio de responsabilidad única
-    //* Priorizar la composición frente a la herencia
+(()=>{
 
     type HtmlType = 'input'|'select'|'textarea'|'radio';
 
@@ -67,7 +68,7 @@
 
     }
 
-    const nameField = new InputElement('Fernando', 'Enter first name', 'txtName');
+    const nameField = new InputElement('Oscar', 'Enter first name', 'txtName');
 
 
     console.log({ nameField });

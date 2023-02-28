@@ -1,3 +1,4 @@
+//Nombres de variables segun su tipo
 (() => {
 
     const tempsInCelsius = [33.6, 12.34];

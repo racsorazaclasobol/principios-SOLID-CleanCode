@@ -1,3 +1,4 @@
+//En esta clase vemos como ponder nombres a nuestras variables
 (() => {
 
     // Ejemplo

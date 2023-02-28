@@ -1,7 +1,7 @@
-(()=>{
+// Aplicar el principio de responsabilidad única
+// Priorizar la composición frente a la herencia
 
-    //* Aplicar el principio de responsabilidad única
-    //* Priorizar la composición frente a la herencia
+(()=>{
 
     type HtmlType = 'input'|'select'|'textarea'|'radio';
    
