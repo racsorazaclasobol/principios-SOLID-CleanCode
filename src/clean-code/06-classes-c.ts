@@ -6,9 +6,9 @@
     type Gender = 'M' | 'F';
 
     interface PersonProperties {
-       name     : string;
-       gender   : Gender;
        birthdate: Date;
+       gender   : Gender;
+       name     : string;
 
     }
 
